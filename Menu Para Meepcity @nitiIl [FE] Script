@@ -1,4 +1,4 @@
--- Feito Por @nitiIl - Aproveite se divertindo com a GUI! --
+-- Feito Por @nitiIl - Divirta-se trollando com a GUI! --
 
 local function service(...) return game:GetService(...) end
 local Players = service("Players")
