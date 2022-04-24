@@ -1,3 +1,5 @@
+-- Feito Por @nitiIl - Aproveite se divertindo com a GUI! --
+
 local function service(...) return game:GetService(...) end
 local Players = service("Players")
 local MarketplaceService = service("MarketplaceService")
